@@ -54,7 +54,7 @@ npm install --save wdio-image-comparison-service
 npm install --save-dev wdio-image-comparison-service
 ```
 
-Instructions on how to install `WebdriverIO` can be found [here.](http://webdriver.io/guide/getstarted/install.html)
+Instructions on how to install `WebdriverIO` can be found [here.](https://webdriver.io/docs/gettingstarted/)
 
 ## Usage
 
